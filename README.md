@@ -148,8 +148,8 @@ python task_distill.py --do_eval \
                                    
 ```
 
-To Dos
-=========================
-* Evaluate TinyBERT on Chinese tasks.
-* Tiny*: use other pre-trained language models as the teacher in TinyBERT learning.
-* Release better general TinyBERTs.
+## Ref
+
+https://github.com/Hugo-cell111/TinyBERT
+
+
